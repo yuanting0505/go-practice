@@ -7,6 +7,8 @@ business offices. If you have access to geographically distributed computers,
 run instances remotely; otherwise run local instances on different ports with
 fake time zones.
 
+My implementation is to serve as multiple servers, not a client of multiple servers.
+
 clock2 link: https://github.com/adonovan/gopl.io/blob/master/ch8/clock2/clock.go
 
 ### How to run
