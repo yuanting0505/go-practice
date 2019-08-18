@@ -1,2 +1,3 @@
 # go-practice
-A repo for storing Golang practice
+
+A repo for practice exercises in <The Go Programming Language>.
